@@ -17,7 +17,6 @@
          
      
          var specialChar = confirm("click OK to confirm including special characters");
-         
          var numericChar = confirm("click OK to confirm including numeric characters");
          var lowerChar = confirm("click OK to confirm including lower case characters");
          var upperChar = confirm("click OK to confirm including upper case characters");
